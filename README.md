@@ -11,7 +11,7 @@ MedGuide-Bengaluru is a healthcare recommendation web application designed to he
 *  Interactive and responsive user interface for a seamless user experience.
 *  Simplifies the process of finding healthcare professionals based on user needs.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python
 * HTML, CSS, JavaScript
